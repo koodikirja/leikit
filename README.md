@@ -42,3 +42,15 @@ this work", eli tästä voi ottaa inspiraatiota, mutta ei kopioida
 - http://www.mll.fi/vanhempainnetti/lasten_leikit/
 - http://www.perheliikunta.fi/files/perheliikunta/Liikuntavinkit/Evoluutio.pdf
 - LAPGA (jussi hölttä) https://docs.google.com/presentation/d/1RW8-9SVPghql30CzTdBpArDtibBneOHkiu4krq8jcPo/edit
+ 
+## Tehtäväkortit
+
+Ideana on tehdä erilaisista aktiviteeteista "kortteja", joissa aktiviteetti kuvataan sillä tasolla, että opettaja voi vetää sen oppitunnilla.
+
+- nimi
+- lyhyt kuvaus
+- opittavat asiat (ja viitteet opetussuunnitelmaan)
+- esitiedot (ja suositeltavat kortit ennen tätä)
+- ikähaarukka
+- esivalmistelut
+- pidempi kuvaus aktiviteetin toteuttamisesta ja tavoitteista. Käytetään myös kuvaa ja videomateriaalia
